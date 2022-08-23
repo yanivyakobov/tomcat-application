@@ -8,7 +8,7 @@
 <title>Yanivi current Date</title>
 </head>
 <body>
-Today's date: <%= (new java.util.Date()).toLocaleString()%>
+Today's date: <%= (new java.util.Date(lol)).toLocaleString()%>
 Hi my name is Yanivi
 </body>
 </html>
